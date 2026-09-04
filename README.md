@@ -41,4 +41,5 @@ JavaScript · React.js
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/vitor-almeida-aranha-de-macedo/) · [Email](mailto:vitoraranha2003@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vitor-almeida-aranha-de-macedo/) · [vitoraranha2003@gmail.com](mailto:vitoraranha2003@gmail.com)
+
